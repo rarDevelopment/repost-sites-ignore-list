@@ -7,3 +7,4 @@ fireside.fm
 bandle.app
 cluesbysam.com
 heardledecades.com
+techyonic.co
